@@ -25,3 +25,6 @@ C:\Users\baylor.warrick\Code\hackathon22\api-homework-bw\src\obj\Debug\net6.0\re
 C:\Users\baylor.warrick\Code\hackathon22\api-homework-bw\src\obj\Debug\net6.0\api-homework-bw.pdb
 C:\Users\baylor.warrick\Code\hackathon22\api-homework-bw\src\obj\Debug\net6.0\api-homework-bw.genruntimeconfig.cache
 C:\Users\baylor.warrick\Code\hackathon22\api-homework-bw\src\obj\Debug\net6.0\ref\api-homework-bw.dll
+C:\Users\baylor.warrick\Code\hackathon22\api-homework-bw\src\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\baylor.warrick\Code\hackathon22\api-homework-bw\src\bin\Debug\net6.0\AWSSDK.DynamoDBv2.dll
+C:\Users\baylor.warrick\Code\hackathon22\api-homework-bw\src\bin\Debug\net6.0\AWSSDK.Extensions.NETCore.Setup.dll

@@ -1,6 +1,6 @@
 using System;
 
-namespace api_homework_bw;
+namespace APIHomeworkBW;
 
 public class WeatherForecast
 {
